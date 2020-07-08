@@ -1,7 +1,9 @@
-Ansible Course Content
+Ansible Core Content
 -----------------------
 
-1. Understanding Ansible Architecture.
+Chapter | Description | Subtopics
+------- | ----------- | ----------
+1\b. | Understanding Ansible Architecture. | 1. Introduction to Ansible < /br> 2. Understanding Ansible flow
 
 2. Installation and getting started.
 
@@ -11,7 +13,19 @@ Ansible Course Content
    - Adhoc
    - Playbook based
    
-5. Understanding modules in Ansible.
+5. Managing Variables & Inclusions.
+   
+6. Understanding modules in Ansible.
 
-6. Loops and Conditionals.
+7. Task Control
+
+8. Using Jinja templates
+
+9. Loops and Conditionals.
+
+10. Implementing Roles
+
+11. Understanding Vault
+
+12. Troubleshooting Ansible
 
